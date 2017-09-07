@@ -1,14 +1,13 @@
 ![Logo](/assets/images/wcbrn_banner.png)
 
-# Werdegang eines WordPress basierten Produktangebots!
+Werdegang eines WordPress basierten Produktangebots!
 ---
 ## Slide 2 (a)
 
 ---
 - Slide |
 - mit |
-- "Fragmenten"
-- 
+- "Fragmenten"|
 
 ---
 Next
@@ -16,7 +15,7 @@ Next
 ## das ist die Folie Zwei
 
 ![Info-Video](https://www.youtube.com/embed/tb7VplYMDoM)
-
+---
 ### Zwei A!
 
 Note:
@@ -65,7 +64,7 @@ else:
 @[3-4](Python dictionary initialization block)
 @[6-7](Python working with time)
 @[9-14](Python for..else statement)
-
+---
 ## Slide 2 (b)
 ---
 Next
