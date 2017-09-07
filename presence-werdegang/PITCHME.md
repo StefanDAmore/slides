@@ -7,11 +7,11 @@ Werdegang eines WordPress basierten Produktangebots!
 Unter dem Motto *am einfachsten geht online offline* bieten wir neu ein Produkt ![PRESENCE](/assets/images/presence-logo.png)
 
 ---
-## das ist die Folie Zwei
+## Folie Zwei mit YouTube Video
 
 ![Info-Video](https://www.youtube.com/embed/tb7VplYMDoM)
 ---
-### Folie mit speaker notes
+### Folie mit Speaker notes
 
 <code>S</code>
 oder <code>?n=true</code>
@@ -21,6 +21,9 @@ Dies sind Notizen.
 - eins
 - zwei
 - drei
+
+---
+Next: Code from file
 
 ---?code=/assets/code/functions.php
 
@@ -63,7 +66,4 @@ else:
 @[6-7](Python working with time)
 @[9-14](Python for..else statement)
 ---
-## Slide 2 (b)
----
-Next
 
