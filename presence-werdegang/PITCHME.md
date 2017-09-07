@@ -15,7 +15,7 @@ Next
 
 ## das ist die Folie Zwei
 
-![Info-Video](https://youtu.be/tb7VplYMDoM?rel=0)
+![Info-Video](https://www.youtube.com/embed/tb7VplYMDoM)
 
 ### Zwei A!
 
