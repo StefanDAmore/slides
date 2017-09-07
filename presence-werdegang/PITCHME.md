@@ -1,4 +1,4 @@
-![Logo](/assets/WordCampBern_banner_speaking.png)
+![Logo](../assets/images/wcbrn_banner.png)
 
 # Werdegang eines WordPress basierten Produktangebots!
 
