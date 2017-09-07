@@ -7,18 +7,14 @@ Werdegang eines WordPress basierten Produktangebots!
 Unter dem Motto *am einfachsten geht online offline* bieten wir neu ein Produkt ![PRESENCE](/assets/images/presence-logo.png)
 
 ---
-- Slide |
-- mit |
-- "Fragmenten"|
-
----
-Next
-
 ## das ist die Folie Zwei
 
 ![Info-Video](https://www.youtube.com/embed/tb7VplYMDoM)
 ---
-### Zwei A!
+### Folie mit speaker notes
+
+<code>S</code>
+oder <code>?n=true</code>
 
 Note:
 Dies sind Notizen.
