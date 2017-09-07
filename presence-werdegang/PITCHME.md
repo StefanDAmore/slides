@@ -1,8 +1,10 @@
 ![Logo](/assets/images/wcbrn_banner.png)
 
 Werdegang eines WordPress basierten Produktangebots!
----
-## Slide 2 (a)
+
+---?image=/assets/images/wcbrn_banner.png
+
+Unter dem Motto *am einfachsten geht online offline* bieten wir neu ein Produkt ![PRESENCE](/assets/images/presence-logo.png)
 
 ---
 - Slide |
