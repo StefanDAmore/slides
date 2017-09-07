@@ -4,7 +4,7 @@ Werdegang eines WordPress basierten Produktangebots!
 
 ---?image=/assets/images/wcbrn_banner.png
 
-Unter dem Motto *am einfachsten geht online offline* bieten wir neu ein Produkt ![PRESENCE](/assets/images/presence-logo.png)
+Unter dem Motto *am einfachsten geht online offline* bieten wir neu ein Produkt ![PRESENCE](/assets/images/online-offline.png)
 
 ---
 ## Folie Zwei mit YouTube Video
