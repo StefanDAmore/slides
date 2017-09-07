@@ -1,19 +1,3 @@
+Dies ist die Übersichtsseite für meine Präsentationen!
 
-Hello!
-
----
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-+++
-
-Hola!
-
----?image=assets/bg.jpg
-
-
-Goodbye!
-
-+++
-
-Adiós!
+- [Werdegang eines WordPress basierten Produktangebots](?p=presence-werdegang) ([WordCamp Bern 2017](https://2017.bern.wordcamp.org/))
