@@ -1,19 +1,4 @@
+![Logo](assets/WordCampBern_banner_speaking.jpg)
 
-Hello!
+# Werdegang eines WordPress basierten Produktangebots!
 
----
-
-This is **talk 2** ...)
-
-+++
-
-Hola!
-
----?image=assets/bg.jpg
-
-
-Goodbye!
-
-+++
-
-Adiós!

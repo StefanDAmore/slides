@@ -1,7 +1,3 @@
-just a simple test of gitpitch
+In this repo I save my slides as Markdown files to be used as [GitPitch](https://gitpitch.com/) ([reveal.js](http://lab.hakim.se/reveal-js/#/)) slides.
 
-It's also using different talks in one repo:
-
-talk-1
-talk-2
-talk-3
+This repo contains slides in different folders so I can reuse some assets globally.
