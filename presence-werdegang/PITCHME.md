@@ -42,11 +42,10 @@ Erste Phase:
 -  Für Kunden: kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten (bzw. entfernten "Hello Dolly" und "Akismet") Plugins
 -  Zusätzlich eine Art Muster-Webseite und Doku statt nur "Hallo Welt!" und Blog zu neuesten Änderungen in WordPress
 
----
-![switchplus Standard-Webseite](/assets/images/wp-master-screenshot1.png)
-![switchplus Standard-Webseite](/assets/images/wp-master-screenshot2.png)
-![switchplus Standard-Webseite](/assets/images/wp-master-screenshot-blog.png)
-![switchplus Standard-Webseite](/assets/images/wp-master-screenshot-blog1.png)
+---?image=/assets/images/wp-master-screenshot1.png
+---?image=/assets/images/wp-master-screenshot2.png
+---?image=/assets/images/wp-master-screenshot-blog.png
+---?image=/assets/images/wp-master-screenshot-blog1.png
 
 
 
