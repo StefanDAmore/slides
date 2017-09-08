@@ -12,7 +12,7 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus e
 - Lessons learned
 ---
 Wer bin ich?
-![das bin ich](/assets/images/[TODO])
+![das bin ich](/assets/images/kundendienst.jpg)
 - ein Mensch mit vielen Ideen
 - begeistert von den Möglichkeiten des Internet seit 1995
 - WordPress kennengelernt ca. 2007 (Konto bei .com)
