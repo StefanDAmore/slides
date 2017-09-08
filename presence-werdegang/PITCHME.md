@@ -31,11 +31,11 @@ Bilder
 ![Prozess allgemein](/assets/images/PRESENCE_Process_de.jpg)
 +++
 ![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.jpg)
-+++-image=/assets/images/IMG_20160614_134947.jpg
++++?image=/assets/images/IMG_20160614_134947.jpg
 Post it's 1
-+++-image=/assets/images/IMG_20160614_134746.jpg
++++?image=/assets/images/IMG_20160614_134746.jpg&size=cover
 Post it's 2
-+++-image=/assets/images/IMG_20160614_134734.jpg
++++?image=/assets/images/IMG_20160614_134734.jpg
 Post it's 3
 ---
 Next: Onboarding Prozess
