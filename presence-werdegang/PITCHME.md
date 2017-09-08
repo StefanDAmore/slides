@@ -5,8 +5,6 @@ Werdegang eines WordPress basierten Produktangebots!
 ---?image=/assets/images/online-offline.png
 
 Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus ein neues Produkt an
-![PRESENCE](/assets/images/presence-logo.png)
-
 ---
 - Wie kam es dazu (warum)?
 - Erfahrungen und Schwierigkeiten
@@ -59,7 +57,9 @@ Wie sollen die Inhalte auf der Webseite strukturiert werden und in welchem Desig
 Beginnen Sie mit dem Bekanntmachen Ihrer neuen Internet Präsenz.
 Marketing und Bekanntmachung
 Wie finden Kunden und Interessenten Ihre Webseite?
-
+---
+Presence Logo
+![PRESENCE](/assets/images/presence-logo.png)
 ---
 Erlebnisse mit Betatestern:
 
