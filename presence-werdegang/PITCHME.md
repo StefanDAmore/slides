@@ -57,9 +57,9 @@ Bilder
 +++
 ![Prozess Kundensicht](/assets/images/PRESENCE_Process_de-Kunde.jpg)
 +++?image=/assets/bg/bg.jpg
-![Ablauf Kreis](Grafik_Ablauf_Kreis_blue_DE_2)
+![Ablauf Kreis](Grafik_Ablauf_Kreis_blue_DE_2.png)
 +++
-![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.png)
+![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.jpg)
 +++
 ![Prozess allgemein](/assets/images/PRESENCE_Process_de.png)
 +++
