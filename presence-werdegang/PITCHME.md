@@ -5,6 +5,8 @@ Werdegang eines WordPress basierten Produktangebots!
 ---?image=/assets/images/online-offline.png
 
 Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus ein neues Produkt an
+
+
 ---
 - Wie kam es dazu (warum)?
 - Erfahrungen und Schwierigkeiten
