@@ -9,13 +9,44 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus e
 - Wie kam es dazu (warum)?
 - Erfahrungen und Schwierigkeiten
 - Erlebnisse mit Betatestern
+- Lessons learned
 ---
 Wer bin ich?
-Lehrertyp: ich will, was ich weiss anderen beibringen.
-Seit 1996 begeistert vom Internet/Web
+![das bin ich](/assets/images/[TODO])
+- ein Mensch mit vielen Ideen
+- begeistert von den Möglichkeiten des Internet seit 1995
+- WordPress kennengelernt ca. 2007 (Konto bei .com)
+- Account bei .org seit 2008
+- chruezundquer.ch gibt es seit 2003, seit 2010 WordPress
+
 
 Note:
-bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Rechner für Misch-Kreuz 
+bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Rechner für Misch-Kreuz
+---
+- 26.05.2003: chruezundquer.ch
+- 05.05.2010: Umstellung auf WordPress (davor pures HTML, Dreamweaver bzw. HomeSite)
+- 24.01.2011 erster veröffentlichter Beitrag (Relaunch von psd-tutorials.de, 91 Worte, Hinweis auf Gewinnspiel)
+- 28.03 2011 zweiter Artikel (2 Monate später, Grosse Dateien versenden, 106 Worte)
+So fleissig habe ich seither nie mehr gebloggt ;-)
+
+Note:
+chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ihn immer erklären muss...
+---
+- Bis dort 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
+---
+### WordPress bei switchplus
+Erste Phase:
+- Eigene Seite von der Registrierungs-Applikation entkoppeln
+- Bis dahin benötigte fast jede Änderung von Content einen Release[sic]!
+-  switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
+-  Für Kunden: kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten (bzw. entfernten "Hello Dolly" und "Akismet") Plugins
+-  Zusätzlich eine Art Muster-Webseite und Doku statt nur "Hallo Welt!" und Blog zu neuesten Änderungen in WordPress
+
+---
+![switchplus Standard-Webseite](/assets/images/[TODO])
+
+
+
 
 ---
 Bilder
