@@ -57,11 +57,15 @@ Bilder
 +++
 ![Prozess Kundensicht](/assets/images/PRESENCE_Process_de-Kunde.jpg)
 +++?image=/assets/bg/bg.jpg
+
 ![Ablauf Kreis](Grafik_Ablauf_Kreis_blue_DE_2.png)
+
 +++
 ![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.jpg)
+
 +++
 ![Prozess allgemein](/assets/images/PRESENCE_Process_de.png)
+
 +++
 ![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
 +++?image=/assets/images/IMG_20160614_134947.jpg
