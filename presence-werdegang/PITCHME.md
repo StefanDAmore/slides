@@ -26,14 +26,14 @@ Bilder
 +++
 ![Ablauf Kreis](Grafik_Ablauf_Kreis_blue_DE_2)
 +++
-![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.jpg)
+![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.png)
 +++
-![Prozess allgemein](/assets/images/PRESENCE_Process_de.jpg)
+![Prozess allgemein](/assets/images/PRESENCE_Process_de.png)
 +++
-![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.jpg)
+![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
 +++?image=/assets/images/IMG_20160614_134947.jpg
 Post it's 1
-+++?image=/assets/images/IMG_20160614_134746.jpg&size=cover
++++?image=/assets/images/IMG_20160614_134746.jpg
 Post it's 2
 +++?image=/assets/images/IMG_20160614_134734.jpg
 Post it's 3
