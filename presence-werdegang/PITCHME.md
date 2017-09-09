@@ -8,10 +8,11 @@ Note:
 Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus  in einem physischen Fachgeschäft in Zürich (und natürlich online) ein neues Produkt an.
 ---
 - Wie kam es dazu (warum)?
+- Was ist es?
 - Erfahrungen und Schwierigkeiten
 - Erlebnisse mit Betatestern
 - Lessons learned
----
++++
 _Wer bin ich?_
 - Voller Ideen
 - Die Möglichkeiten des Internet begeistern mich seit 1995
@@ -21,7 +22,7 @@ _Wer bin ich?_
 
 Note:
 bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Rechner für Misch-Kreuz
----
++++
 Mitarbeiter bei switchplus
 und dort der __"WordPress-Evangelist"__
 (keine offizielle Bezeichnung)
@@ -46,8 +47,8 @@ Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vo
 ---
 #### WordPress bei switchplus
 __Erste Phase (intern):__
-- Eigene Seite von der Registrierungs-Applikation entkoppeln |
-- Bis dahin benötigte fast jede Änderung von Content einen Software-Release[sic]! |
+- Eigene Seite von der Registrierungs-Applikation entkoppeln
+- Bis dahin benötigte fast jede Änderung von Content einen Software-Release[sic]!
 - switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
 
 Note:
@@ -67,19 +68,40 @@ Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Abe
 ---
 __Wie sah/sieht das aus?__
 ---?image=/assets/images/wp-master-screenshot2.png
+
+Note:
+eine gewöhnliche WordPress Webseite&hellip;
+
 ---?image=/assets/images/wp-master-screenshot-blog.png
+
+Note:
+&hellip; mit etwas erklärendem Dummy Text&hellip;
+
 ---?image=/assets/images/wp-master-screenshot-blog1.png
+
+Note:
+&hellip;einem Blog zu den WordPress Updates&hellip;
+
 ---?image=/assets/images/wp-master-screenshot1.png
+
+Note:
+&hellip; Links zu Schulungsunterlagen &hellip;
+
 ---?image=/assets/images/wp-master-screenshot3.png
+
+Note:
+&hellip; und Beispiele einer Gallerie mit Lightbox-Effekt und einem Formular&hellip;
+
 ---
 ### Was ist das Problem?
 ---
-- Kunden wählten "schlimme" Themes |
+__Kunden wählten "schlimme" Themes__
 Was meine ich damit?
 z. Bsp:
 - nicht standardkonform / the WordPress way
 	- Bsp: Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir aus Sicherheitsgründen immer geändert hatten)
 	- überfrachtete Option Panels (WordPress Philosophie wäre "Decisions not Options"
+	- Unser liebevoll gestalteter Inhalt wurde gar nicht beachtet, wenn wir Demodaten installierten
 	- &hellip;
 
 &hellip; das führte zur dritten Phase:
@@ -88,16 +110,19 @@ z. Bsp:
 __Dritte Phase (Schulungen):__
 - zuerst in Zusammenarbeit mit der Migros klubschule in Zürich
 - dann in eigenen Schulungsräumen und via Webinare
-+++?image=/assets/images/ScreenShot_Webinar_2015-12-22 at 13.09.44.png
++++?image=/assets/images/ScreenShot_Webinar_2015-12-22.png
 ---
 #### WordPress bei switchplus
 __Dritte Phase (Schulungen):__
 - &hellip;
-- Schulungen halfen Kunden auch zwischen [HomePageTool](https://www.switchplus.ch/produkte/tool-free/) und [WordPress](https://wordpress.org/) zu entscheiden
+- Schulungen/Webinare halfen Kunden auch zwischen [HomePageTool](https://www.switchplus.ch/produkte/tool-free/) und [WordPress](https://wordpress.org/) zu entscheiden
 - Spezialisierung auf eigenes HomePageTool und WordPress
 
 Note:
 sehr kurzfristige Anmeldungen machten es schwierig weil wir bei der klubschule voraus definitiv zu/absagen mussten
+Wir lernten, (was wir eigentlich wussten und uns doch immer wieder überraschte: dass Kunden oft keine Ahnung haben wie DOMAIN Name, DNS, Hosting und ein HomePageTool, CMS oder ein Werkzeug zumErstellen von Websites zusammen spielen.
+
+Da muss an eine Kollegin denken, die Microsoft Word (save as html) nutzt um ihre Webseite zu pflegen&hellip;
 
 Als Hoster testeten wir zwar andere CMS, die auf unseren Servern garantiert funktionierten.
 Mehr als Standard-Support boten wir nun explizit nur noch für das eigene HomePageTool und WordPress an
@@ -117,6 +142,8 @@ Zielgruppen
 ![PRESENCE Vorstellung](/assets/images/presence-vorstellung.png)
 
 Note:
+Das ist so ungefähr, wie es dem Verwaltungsrat und externen Partnern präsentiert wurde:
+
 - Wizard-gesteuerter Beratungsprozess mit dem Kunden zur Erfassung der Bedürfnisse an die Funktionalität, die Leistungsfähigkeit und das Design seiner Webseite.
 - Auswahl aus vorselektierten Themes und Plugins, die alle relevanten Funktionen der Webseite umfassen.
 - Erstellung einer Webseite basierend auf vom Kunden bereitgestellten Corporate Design Elementen oder Vermittlung einer Agentur zur Erstellung einer Webseite.
@@ -127,15 +154,14 @@ Note:
 
 ---
 __Sammeln und sortieren Anforderungen__
----
 +++?image=/assets/images/IMG_20160614_134734.jpg
 Anforderungen werden gesammelt&hellip;
-&hellip;+++?image=/assets/images/IMG_20160614_134746.jpg
-&hellip; gruppiert &hellip;
++++?image=/assets/images/IMG_20160614_134746.jpg
+&hellip; zusammengefasst &hellip;
 +++?image=/assets/images/IMG_20160614_134947.jpg
-Anforderungen (2016)
+&hellip; gruppiert &hellip;
 +++?image=/assets/images/20160810_170743.jpeg
-Anforderungen (2016)
+&hellip; sortiert &hellip;
 ---
 __Stellen und beantworten Fragen__
 - WordPress Multisite oder individuelle Sites?
@@ -149,13 +175,14 @@ Note: Besteht Interesse an den Antworten? Diese sind etwas technischer Natur und
 +++
 __WordPress Multisite oder individuelle Sites?__
 - individuelle Sites auf einem CloudLinux mit abgeschotteten Instanzen
-- Hauptgrund: Skalierbarkeit ist technisch einfacher
-- 
-Note:
+
+Hauptgrund: Skalierbarkeit ist technisch einfacher umzusetzen
+
+- Note:
 Viele Kunden --> viele Server
 Bei Multisite wird DB zum Flaschenhals, die auf mehrere Server verteilt werden muss
 +++
-__Auswahl an Themes oder (eigenes) Theme-Framework?__
+__Auswahl an Themes oder (eigenes) Theme(-Framework?)__
 - eigenes Theme / CSS Framework
 - Hauptgrund: Themes von unterschiedlichen Quellen verfolgen oft unterschiedliche Philosophien, z. Bsp. bezüglich
 	- Dateistruktur
@@ -167,11 +194,14 @@ __Auswahl an Themes oder (eigenes) Theme-Framework?__
 - &hellip;
 +++
 __Plugins__
-Mischung zwischen lizenzierten Plugins, Plugins aus dem Standard WordPress Repository und eigenen Plugins (die teilweise Elemente der Standard-Plugins anpassen, z. B. Werbung ausblenden ;-)
+Mischung zwischen
+- lizenzierten Plugins
+- Plugins aus dem Standard WordPress Repository und
+- eigenen Plugins (die teilweise Elemente der Standard-Plugins anpassen, z. B. Werbung ausblenden ;-)
 +++
 __Welche Rechte geben wir den Benutzern?__
-Individuelle Berechtigung (eigene User Rolle: PRESENCE-Admin)
-User kannkeine eigenen Plugins oder Themes installieren oder Updaten aber beispielsweise Einstellungen für und ingewisse Plugins vornehmen, die standardmässig höhere Rechte als Editor verlangen.
+- Individuelle Berechtigung (eigene User Rolle: PRESENCE-Admin)
+- User kann keine eigenen Plugins oder Themes installieren oder Updaten aber beispielsweise Einstellungen gewisser Plugins vornehmen, die standardmässig höhere Rechte als Editor verlangen.
 
 Note:
 [Members](https://wordpress.org/plugins/members/) von Justin Tadlock
@@ -179,7 +209,7 @@ Note:
 __Modularer Ansatz__
 Wir haben uns entschieden, ein eigenes Theme-Framework zu entwickeln:
 
-+++?image=/assets/images/invisionapp-presence-template.png
+---?image=/assets/images/invisionapp-presence-template.png
 
 Note:
 - Der modulare Ansatz ist die Idee
@@ -187,12 +217,15 @@ Note:
 - Der Aufwand ist enorm, grösser als vorgesehen.
 - Wir sind noch nicht da, wo wir hinwollen
 - Mittelfristig sollte ein visuelles Tool, a la [components.underscores.me](https://themeshaper.com/2017/06/26/the-future-of-underscores-and-a-new-committer/) (Ulrich Pogson) die Initalisierung neuer Projekte erleichtern.
----image=/assets/bg/bg.jpg
+
+---?image=/assets/bg/bg.jpg
+
 __PRESENCE für den Kunden__
 
 ![Ablauf Kreis](/assets/images/Grafik_Ablauf_Kreis_blue_DE_2.png)
 
 ---
+
 __PRESENCE und Partner__
 switchplus kann so ein Projekt nicht alleine stemmen
 Wir sind auf Partner angewiesen
@@ -241,36 +274,56 @@ Mit PRESENCE bekommen Kunden in einem Abonnement fortlaufend die Beratung und ko
 
 ---
 Schritt für Schritt werden Kunden durch diverse Formulare geführt:
+
 +++
-	1.Ihre Webseite braucht eine Aufgabe
-	_Machen Sie sich Gedanken darüber, was Sie mit Ihrer Webseite erreichen wollen._
+1.Ihre Webseite braucht eine Aufgabe
+
+_Machen Sie sich Gedanken darüber, was Sie mit Ihrer Webseite erreichen wollen._
+
 +++
-	2.Die Zielgruppe für Ihre Internet Präsenz
-_Mit Hilfe einer ausgedachten Person (Persona), definieren Sie repräsentativ Ihre Zielgruppe_
+2.Die Zielgruppe für Ihre Internet Präsenz
+	
+	_Mit Hilfe einer ausgedachten Person (Persona), definieren Sie repräsentativ Ihre Zielgruppe_
+
 +++
-	3.Stellen Sie sich vor
+3.Stellen Sie sich vor
+
 _Knapp und präzise präsentieren Sie sich und Ihre Vorteile für potentiellen Kunden._
+
 +++
 4. Das Profil und die Aufgaben Ihrer Webseite
+
 _Sie formulieren Sie den Hauptzweck Ihrer Internet Präsenz._
+
 +++
-	5.Funktionelle Anforderung an die Webseite
+5.Funktionelle Anforderung an die Webseite
+
 _Hier definieren Sie, welche Funktionen und Möglichkeiten Ihrer Internet Präsenz beinhalten soll_
+
 +++
-	6.Interaktion und Soziale Medien
+6.Interaktion und Soziale Medien
+
 _Auf welchen Plattformen möchten Sie mit Ihren Kunden in Kontakt treten?_
+
 +++
-	7.Inhalte und Gestaltung
+7.Inhalte und Gestaltung
+
 _Wie sollen die Inhalte auf der Webseite strukturiert werden und in welchem Design möchten Sie auftreten?_
+
 +++
-	8.Launchpage und Lead-Magnet
+8.Launchpage und Lead-Magnet
+
 _Beginnen Sie mit dem Bekanntmachen Ihrer neuen Internet Präsenz._
+
 +++
-	9.Marketing und Bekanntmachung
+9.Marketing und Bekanntmachung
 _Wie finden Kunden und Interessenten Ihre Webseite?_
 
 ---
-Erst wenn der Kunde, diese Onboarding Fragen abgeliefert hat, gibt es ein __Treffen und Expertengespräch__
+Erst wenn der Kunde, diese Onboarding Fragen abgeliefert hat, gibt es ein
+
+__Treffen und Expertengespräch__
+
 _In einem persönlichen Gespräch analysieren wir zusammen mit dem Kunden die in den Formularen erfassten Antworten und wir stellen sicher, dass die beste Lösung definiert wird._
 ---
 
@@ -282,39 +335,23 @@ Im Ergebnis halten wir gemeinsam in einem Dokument fest, was wir initial in welc
 
 +++
 __Designvorschlag__
+
 allenfalls
+
 __Landing Page__
+
 +++
 PRESENCE ist ein Paket, bestehend aus Beratung, Umsetzung und Betreuung der Website sowie Unterstützung beim Online-Marketing. Das Komplettpaket wird als Abonnement für 2500 Franken pro Jahr angeboten und enthält die laufende Beratung und Weiterentwicklung der Internet-Präsenz gemeinsam mit dem Kunden.
 Kunden können im neuen Fachgeschäft die Ziele, Funktionalität und Gestaltung von Webseiten im persönlichen Gespräch ausarbeiten
----
-[netzwoche: Switchplus geht offline](http://www.netzwoche.ch/news/2017-08-24/switchplus-geht-offline)
 
-[lokalinfo: Online-Anbieter eröffnet Offline-Fachgeschäft in Zürich](http://www.lokalinfo.ch/news/datum/2017/08/24/online-anbieter-eroeffnet-offline-fachgeschaeft-in-zuerich/)
-
-[itMagazin: Switchplus eröffnet in Zürich erstes Fachgeschäft](http://www.itmagazine.ch/Artikel/65360/Switchplus_eroeffnet_in_Zuerich_erstes_Fachgeschaeft.html)
-
-[insideit: Switchplus drängelt ins Webagentur-Business](http://www.inside-it.ch/articles/48435)
-
-[Atomia: A domain over the counter anyone?](https://www.atomia.com/2017/08/23/domain-counter-anyone/)
 
 +++
 ![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
 
-+++?image=/assets/images/IMG_20160614_134734.jpg
-Anforderungen werden gesammelt&hellip;
-
-+++?image=/assets/images/IMG_20160614_134746.jpg
-&hellip;
-&hellip; gruppiert &hellip;
-&hellip;
-+++?image=/assets/images/IMG_20160614_134947.jpg
-Anforderungen (2016)
-+++?image=/assets/images/20160810_170743.jpeg
-Anforderungen (2016)
-
++++
 Presence Logo
 ![PRESENCE](/assets/images/presence-logo.png)
+
 ---
 Erlebnisse mit Betatestern:
 
@@ -332,17 +369,26 @@ Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
 &hellip;
 
 
-
-
-
 ---
+---
+[netzwoche: Switchplus geht offline](http://www.netzwoche.ch/news/2017-08-24/switchplus-geht-offline)
+
+[lokalinfo: Online-Anbieter eröffnet Offline-Fachgeschäft in Zürich](http://www.lokalinfo.ch/news/datum/2017/08/24/online-anbieter-eroeffnet-offline-fachgeschaeft-in-zuerich/)
+
+[itMagazin: Switchplus eröffnet in Zürich erstes Fachgeschäft](http://www.itmagazine.ch/Artikel/65360/Switchplus_eroeffnet_in_Zuerich_erstes_Fachgeschaeft.html)
+
+[insideit: Switchplus drängelt ins Webagentur-Business](http://www.inside-it.ch/articles/48435)
+
+[Atomia: A domain over the counter anyone?](https://www.atomia.com/2017/08/23/domain-counter-anyone/)
+
+
 Note:
 FAQ
 __Seht ihr euch als Konkurrent zu klassischen Agenturen?__
 
+Note:
 Nein, ein Projekt-Budget von 10'000.- innerhalb 4 Jahren ist für klassiche Agenturen oft nicht interessant.
 Wenn ein Kunde eine Agentur braucht (und will) kann und soll er sie immer noch nutzen. Wir übernehmen dann Maintenance und Wartung, da wir ein Call-Center sowieso betreiben und solche Anfragen "ressourcenschonend" bearbeiten können.
-
 __Was, wenn ich also Kunde kündigen will?__
 Kein Problem (ausser, dass wir traurig sind).
 Es gibt kein Vendor-Lockin. Es ist 100% echtes WordPress.
