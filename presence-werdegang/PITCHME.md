@@ -36,6 +36,18 @@ chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ih
 +++
 Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
 ---
+# WordPress bei switchplus
+Erste Phase (intern):
+- Eigene Seite von der Registrierungs-Applikation entkoppeln
+- Bis dahin benötigte fast jede Änderung von Content einen Release[sic]!
+- switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
+---
+## WordPress bei switchplus
+Erste Phase (intern):
+- Eigene Seite von der Registrierungs-Applikation entkoppeln
+- Bis dahin benötigte fast jede Änderung von Content einen Release[sic]!
+- switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
+---
 ### WordPress bei switchplus
 Erste Phase (intern):
 - Eigene Seite von der Registrierungs-Applikation entkoppeln
