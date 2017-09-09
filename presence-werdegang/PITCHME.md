@@ -503,10 +503,14 @@ Presence Logo
 ![PRESENCE](/assets/images/kampagne-5.png)
 
 +++
+![PRESENCE](/assets/images/sitewit-kampagnen-auswertung.png)
+
++++
 ![PRESENCE](/assets/images/sitewit-analytics.png)
 
 +++
-![PRESENCE](/assets/images/sitewit-kampagnen-auswertung.png)
+![PRESENCE](/assets/images/analytify.png)
+
 
 
 ---
