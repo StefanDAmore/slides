@@ -33,8 +33,8 @@ So fleissig habe ich seither nie mehr gebloggt ;-)
 
 Note:
 chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ihn immer erklären muss...
----
-- Bis dort 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
++++
+Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
 ---
 ### WordPress bei switchplus
 Erste Phase (intern):
