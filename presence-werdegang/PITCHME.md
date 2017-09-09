@@ -54,9 +54,9 @@ Erste Phase (intern):
 - Bis dahin benötigte fast jede Änderung von Content einen Release[sic]!
 - switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
 ---
-Zweite Phase (Angebot):
-- kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
-- (bzw. entfernten "Hello Dolly" und "Akismet")
+#### Zweite Phase (Angebot):
++ kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
++ (bzw. entfernten "Hello Dolly" und "Akismet")
 - Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!"
 - Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren
 
