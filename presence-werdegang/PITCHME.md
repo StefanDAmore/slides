@@ -46,9 +46,12 @@ chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ih
 +++
 Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind&hellip;
 &hellip;
+
 ---
 #### WordPress bei switchplus
+
 __Erste Phase (intern):__
+
 - Eigene Seite von der Registrierungs-Applikation entkoppeln
 - Bis dahin benötigte fast jede Änderung von Content einen Software-Release[sic]!
 - switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
@@ -58,7 +61,9 @@ muss ca. 2012 gewesen sein
 Von Contrexx zu WordPress
 ___
 #### WordPress bei switchplus
+
 __Zweite Phase (Angebot):__
+
 - kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
 - (bzw. entfernten "Hello Dolly" und "Akismet") |
 - Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!" |
@@ -69,6 +74,7 @@ Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Abe
 
 ---
 __Wie sah/sieht das aus?__
+
 ---?image=/assets/images/wp-master-screenshot2.png
 
 Note:
