@@ -537,6 +537,7 @@ __Fragen?__
 
 ---
 [PRESENCE Video](https://www.youtube.com/watch?v=eFCZxlyUGfM)
+
 [SignSpinner zur Eröffnung des Fachgeschäfts an der Sihlporte](https://www.youtube.com/watch?v=iRgyySJLABE)
 
 
