@@ -13,7 +13,7 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus e
 - Erlebnisse mit Betatestern
 - Lessons learned
 ---
-Wer bin ich?
+_Wer bin ich?_
 - ein Mensch mit vielen Ideen
 - begeistert von den Möglichkeiten des Internet seit 1995
 - WordPress kennengelernt ca. 2007 (Konto bei .com)
@@ -29,7 +29,7 @@ bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Re
 - 24.01.2011 erster veröffentlichter Beitrag (Relaunch von psd-tutorials.de, 91 Worte, Hinweis auf Gewinnspiel)
 - 28.03 2011 zweiter Artikel (2 Monate später, Grosse Dateien versenden, 106 Worte)
 
-So fleissig habe ich seither nie mehr gebloggt ;-)
+_So fleissig habe ich seither nie mehr gebloggt ;-)_
 
 Note:
 chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ihn immer erklären muss...
