@@ -311,29 +311,40 @@ _Knapp und präzise präsentieren Sie sich und Ihre Vorteile für potentiellen K
 _Sie formulieren Sie den Hauptzweck Ihrer Internet Präsenz._
 
 +++
-5.Funktionelle Anforderung an die Webseite
+5. Funktionelle Anforderung an die Webseite
 
 _Hier definieren Sie, welche Funktionen und Möglichkeiten Ihrer Internet Präsenz beinhalten soll_
 
+Note:
+- Mehrsptrachigkeit
+- Buchungsfunktion
+- Shop
+- Social Media Integration
+- Kommentare
+- &hellip;
+
 +++
-6.Interaktion und Soziale Medien
+6. Interaktion und Soziale Medien
 
 _Auf welchen Plattformen möchten Sie mit Ihren Kunden in Kontakt treten?_
 
 +++
-7.Inhalte und Gestaltung
+7. Inhalte und Gestaltung
 
 _Wie sollen die Inhalte auf der Webseite strukturiert werden und in welchem Design möchten Sie auftreten?_
 
 +++
-8.Launchpage und Lead-Magnet
+8. Launchpage und Lead-Magnet
 
 _Beginnen Sie mit dem Bekanntmachen Ihrer neuen Internet Präsenz._
 
 +++
-9.Marketing und Bekanntmachung
+9. Marketing und Bekanntmachung
 
 _Wie finden Kunden und Interessenten Ihre Webseite?_
+
+Note:
+Wenn es sich um eine ganz neue Webseite handelt, empfehlen wir einen "Pre-Launch", eine Landing Page.
 
 ---
 Erst wenn der Kunde, diese Onboarding Fragen abgeliefert hat, gibt es ein
@@ -357,36 +368,59 @@ allenfalls
 __Landing Page__
 
 +++
-PRESENCE ist ein Paket, bestehend aus Beratung, Umsetzung und Betreuung der Website sowie Unterstützung beim Online-Marketing. Das Komplettpaket wird als Abonnement für 2500 Franken pro Jahr angeboten und enthält die laufende Beratung und Weiterentwicklung der Internet-Präsenz gemeinsam mit dem Kunden.
-Kunden können im neuen Fachgeschäft die Ziele, Funktionalität und Gestaltung von Webseiten im persönlichen Gespräch ausarbeiten
+Custom Post Type (Inhaltstyp) für Kunde.
 
+![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
 
 +++
-![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
+PRESENCE ist ein Paket, bestehend aus Beratung, Umsetzung und Betreuung der Website sowie Unterstützung beim Online-Marketing. Das Komplettpaket wird als Abonnement für 2500 Franken pro Jahr angeboten und enthält die laufende Beratung und Weiterentwicklung der Internet-Präsenz gemeinsam mit dem Kunden.
+Kunden können im neuen Fachgeschäft die Ziele, Funktionalität und Gestaltung von Webseiten im persönlichen Gespräch ausarbeiten
 
 +++
 Presence Logo
 ![PRESENCE](/assets/images/presence-logo.png)
 
 ---
-Erlebnisse mit Betatestern:
+#### Erlebnisse mit Betatestern:
 
-- Wir bieten ein kostenloses erstes Jahr an, der Kunde nimmt zwei 
+- Wir bieten ein kostenloses erstes Jahr an, der Kunde nimmt zwei
+
+Note:
+Eine Firma, zwei total unterschiedliche Geschäfte
+
+---
+#### Erlebnisse mit Betatestern:
+
 - Wir schreiben dem Kunde, seine Landing Page sei jetzt online 
 und hören nichts, bis er eine Woche später droht, weil das Kontaktformular nicht funktioniere.
+
+Note:
+Zuerst erklärte er, seine Seite dürfe nicht früher als x online sein (Konkurrenzverbot, war noch angestellt und wollte sich selbständig machen), dann sollte es plötzlich doch früher sein.
+Mails waren in seinem Spam-Ordner. (Mail wollte er extern behalten).  
+Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
+
 - es gab natürlich auch positive, schöne Beispiele
+
+---
+#### Erlebnisse mit Betatestern:
 
 wie der Rebel, der bei seiner Ausstellungseröffnung im Landesmuseum rundum allen erzählt, wie begeistert er ist und wie gut und schnell wir seien obwohl es eigentlich keinen Anlass gibt darüber zu erzählen.
 
 Note:
-1. Eine Firma, zwei total unterschiedliche Geschäfte
-2. Zuerst erklärte er, seine Seite dürfe nicht früher als x online sein (Konkurrenzverbot, war noch angestellt und wollte sich selbständig machen), dann sollte es plötzlich doch früher sein.
-Mails waren in seinem Spam-Ordner. (Mail wollte er extern behalten).  
-Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
-3. Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebelvideo.ch/ueber/) erwähnen&hellip;
+
+Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebelvideo.ch/ueber/) erwähnen&hellip;
 &hellip;
 
 ---
+#### Lessons learned:
+
+- "Best Practices" sind nicht automatisch bekannt:
+- Developer, Designer, Verkäufer, Kunden verstehen nicht automatisch dasselbe.
+- Es ist erstaunlich, wie viel wir bei anderen voraus setzen
+
+Note:
+Kunden wollen sich keine Blösse geben und nicken, auch wenn sie nicht verstanden haben, was man gesagt hat.
+
 __Fragen?__
 
 [https://gitpitch.com/zu/slides?p=presence-werdegang](https://gitpitch.com/zu/slides?p=presence-werdegang)
