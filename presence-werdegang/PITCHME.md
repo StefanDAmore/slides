@@ -9,7 +9,7 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus  
 ---
 - Wie kam es dazu (warum)?
 - Was ist es?
-- Erfahrungen und Schwierigkeiten
+- Entscheidungen
 - Erlebnisse mit Betatestern
 - Lessons learned
 +++
