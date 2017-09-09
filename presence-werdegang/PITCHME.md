@@ -62,7 +62,7 @@ __Wie sah/sieht das aus?__
 ---
 ### Was ist das Problem?
 ---
-- Kunden wählten _"schlimme"_ Themes |
+- Kunden wählten _schlimme_ Themes |
 Was meine ich damit?
 z. Bsp:
 - nicht standardkonform / the WordPress way
