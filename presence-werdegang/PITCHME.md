@@ -12,6 +12,7 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus  
 - Entscheidungen
 - Erlebnisse mit Betatestern
 - Lessons learned
+
 +++
 _Wer bin ich?_
 - Voller Ideen
@@ -22,6 +23,7 @@ _Wer bin ich?_
 
 Note:
 bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Rechner für Misch-Kreuz
+
 +++
 Mitarbeiter bei switchplus
 und dort der __"WordPress-Evangelist"__
@@ -96,8 +98,8 @@ Note:
 ### Was ist das Problem?
 ---
 __Kunden wählten "schlimme" Themes__
+
 Was meine ich damit?
-z. Bsp:
 - nicht standardkonform / the WordPress way
 	- Bsp: Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir aus Sicherheitsgründen immer geändert hatten)
 	- überfrachtete Option Panels (WordPress Philosophie wäre "Decisions not Options"
@@ -114,7 +116,6 @@ __Dritte Phase (Schulungen):__
 ---
 #### WordPress bei switchplus
 __Dritte Phase (Schulungen):__
-- &hellip;
 - Schulungen/Webinare halfen Kunden auch zwischen [HomePageTool](https://www.switchplus.ch/produkte/tool-free/) und [WordPress](https://wordpress.org/) zu entscheiden
 - Spezialisierung auf eigenes HomePageTool und WordPress
 
@@ -159,11 +160,11 @@ Anforderungen werden gesammelt&hellip;
 +++?image=/assets/images/IMG_20160614_134746.jpg
 &hellip; zusammengefasst &hellip;
 +++?image=/assets/images/IMG_20160614_134947.jpg
-&hellip; gruppiert &hellip;
-+++?image=/assets/images/20160810_170743.jpeg
 &hellip; sortiert &hellip;
++++?image=/assets/images/20160810_170743.jpeg
+&hellip; gruppiert &hellip;
 ---
-__Stellen und beantworten Fragen__
+__Entscheidungen__
 - WordPress Multisite oder individuelle Sites?
 - Auswahl an Themes oder (eigenes) Theme-Framework?
 - Plugins?
@@ -176,31 +177,34 @@ Note: Besteht Interesse an den Antworten? Diese sind etwas technischer Natur und
 __WordPress Multisite oder individuelle Sites?__
 - individuelle Sites auf einem CloudLinux mit abgeschotteten Instanzen
 
-Hauptgrund: Skalierbarkeit ist technisch einfacher umzusetzen
+Hauptgrund:
+Skalierbarkeit ist technisch einfacher umzusetzen
 
-- Note:
+Note:
 Viele Kunden --> viele Server
 Bei Multisite wird DB zum Flaschenhals, die auf mehrere Server verteilt werden muss
 +++
 __Auswahl an Themes oder (eigenes) Theme(-Framework?)__
 - eigenes Theme / CSS Framework
-- Hauptgrund: Themes von unterschiedlichen Quellen verfolgen oft unterschiedliche Philosophien, z. Bsp. bezüglich
-	- Dateistruktur
-	- Customizer Optionen
+Hauptgrund:
+Themes von unterschiedlichen Quellen verfolgen oft unterschiedliche Philosophien, z. Bsp. bezüglich
+	- Dateistruktur, Customizer Optionen
 	- Benennung von Menupositionen / Widget-Areas
 	- Wie Social Menues, Unterseiten- / Post-Grids genutzt werden
 	- etc.
-- Das heisst, selbst eine sorgfältig zusammengestellte Auswahl von qualitativ sehr guten Themes wird aufwändig zu supporten sein
-- &hellip;
+- Auch eine sorgfältig zusammengestellte Auswahl von qualitativ sehr guten Themes wird aufwändig zu supporten sein
+
 +++
 __Plugins__
 Mischung zwischen
 - lizenzierten Plugins
-- Plugins aus dem Standard WordPress Repository und
-- eigenen Plugins (die teilweise Elemente der Standard-Plugins anpassen, z. B. Werbung ausblenden ;-)
+- Plugins aus dem Standard WordPress Repository
+- eigenen Plugins  
+(die teilweise Elemente der Standard-Plugins anpassen, z. B. Werbung ausblenden ;-)
 +++
 __Welche Rechte geben wir den Benutzern?__
-- Individuelle Berechtigung (eigene User Rolle: PRESENCE-Admin)
+- Individuelle Berechtigung  
+(eigene User Rolle: PRESENCE-Admin)
 - User kann keine eigenen Plugins oder Themes installieren oder Updaten aber beispielsweise Einstellungen gewisser Plugins vornehmen, die standardmässig höhere Rechte als Editor verlangen.
 
 Note:
@@ -227,11 +231,12 @@ __PRESENCE für den Kunden__
 ---
 
 __PRESENCE und Partner__
+
 switchplus kann so ein Projekt nicht alleine stemmen
 Wir sind auf Partner angewiesen
 Der Prozess, vereinfacht dargestellt, sieht bei jedem PRESENCE Projekt so aus:
 
----?/assets/images/PRESENCE_Process_de-Kunde.jpg
+---?image=/assets/images/PRESENCE_Process_de-Kunde.jpg
 
 Note:
 Einführung
@@ -254,14 +259,15 @@ Vermarktung
 - Werbung
 - Auswertung
 
----
-![Prozess mit Partner](/assets/images/PRESENCE_Process_de-internal.jpg)
+------?image=/assets/images/PRESENCE_Process_de-internal.jpg
 
 Note:
 - Partner müssen sich an unsere Struktur & Philosophie halten
 - 100% pure WordPress
+
 ---
 __Was ist da neu?__
+
 - Physisches Fachgeschäft: Ziel, Funktionalität und Gestaltung einer Website besprechen sich leichter und effizienter im persönlichen Gespräch
 - On Boarding Prozess: Wir verlangen vom Kunden, dass er sich viele Gedanken macht, bevor wir starten&hellip;
 
@@ -276,17 +282,17 @@ Mit PRESENCE bekommen Kunden in einem Abonnement fortlaufend die Beratung und ko
 Schritt für Schritt werden Kunden durch diverse Formulare geführt:
 
 +++
-1.Ihre Webseite braucht eine Aufgabe
+1. Ihre Webseite braucht eine Aufgabe
 
 _Machen Sie sich Gedanken darüber, was Sie mit Ihrer Webseite erreichen wollen._
 
 +++
-2.Die Zielgruppe für Ihre Internet Präsenz
+2. Die Zielgruppe für Ihre Internet Präsenz
 	
-	_Mit Hilfe einer ausgedachten Person (Persona), definieren Sie repräsentativ Ihre Zielgruppe_
+_Mit Hilfe einer ausgedachten Person (Persona), definieren Sie repräsentativ Ihre Zielgruppe_
 
 +++
-3.Stellen Sie sich vor
+3. Stellen Sie sich vor
 
 _Knapp und präzise präsentieren Sie sich und Ihre Vorteile für potentiellen Kunden._
 
@@ -317,6 +323,7 @@ _Beginnen Sie mit dem Bekanntmachen Ihrer neuen Internet Präsenz._
 
 +++
 9.Marketing und Bekanntmachung
+
 _Wie finden Kunden und Interessenten Ihre Webseite?_
 
 ---
@@ -325,7 +332,6 @@ Erst wenn der Kunde, diese Onboarding Fragen abgeliefert hat, gibt es ein
 __Treffen und Expertengespräch__
 
 _In einem persönlichen Gespräch analysieren wir zusammen mit dem Kunden die in den Formularen erfassten Antworten und wir stellen sicher, dass die beste Lösung definiert wird._
----
 
 Note:
 Der Kunde erhält ein Planungsdokument, welches er unterzeichnen muss.
@@ -334,6 +340,7 @@ __Definition__
 Im Ergebnis halten wir gemeinsam in einem Dokument fest, was wir initial in welcher Form auf Ihrer Webseite umsetzen, so dass Ihren Anforderungen und Wünschen entsprochen wird. Anschliessend liefern Sie uns bestehende Designelemente (Logos, Bilder, etc.) und Inhalte (Texte, Dokumente, Filme, etc.) für Ihre Webseite. Designer und Web-Entwickler machen sich an die Arbeit.
 
 +++
+
 __Designvorschlag__
 
 allenfalls
@@ -357,8 +364,10 @@ Erlebnisse mit Betatestern:
 
 - Wir bieten ein kostenloses erstes Jahr an, der Kunde nimmt zwei 
 - Wir schreiben dem Kunde, seine Landing Page sei jetzt online 
-und höre nichts, bis er eine Woche später droht, weil das Kontaktformular nicht funktioniere.
-- es gab natürlich auch positive, schöne Beispiele, wie der Rebel, der bei seiner Ausstellungseröffnung im Landesmuseum rundum allen erzählt, wie begeistert er ist und wie gut und schnell wir seien obwohl es eigentlich keinen Anlass gibt darüber zu erzählen.
+und hören nichts, bis er eine Woche später droht, weil das Kontaktformular nicht funktioniere.
+- es gab natürlich auch positive, schöne Beispiele
+
+wie der Rebel, der bei seiner Ausstellungseröffnung im Landesmuseum rundum allen erzählt, wie begeistert er ist und wie gut und schnell wir seien obwohl es eigentlich keinen Anlass gibt darüber zu erzählen.
 
 Note:
 1. Eine Firma, zwei total unterschiedliche Geschäfte
