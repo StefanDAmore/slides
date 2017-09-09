@@ -37,22 +37,56 @@ chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ih
 - Bis dort 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
 ---
 ### WordPress bei switchplus
-Erste Phase:
+Erste Phase (intern):
 - Eigene Seite von der Registrierungs-Applikation entkoppeln
 - Bis dahin benötigte fast jede Änderung von Content einen Release[sic]!
--  switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
--  Für Kunden: kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten (bzw. entfernten "Hello Dolly" und "Akismet") Plugins
--  Zusätzlich eine Art Muster-Webseite und Doku statt nur "Hallo Welt!" und Blog zu neuesten Änderungen in WordPress
+- switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
+---
+Zweite Phase (Angebot):
+- kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
+- (bzw. entfernten "Hello Dolly" und "Akismet")
+- Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!"
+- Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren
 
+Note:
+Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Aber wir boten keine "One Click Installation".
 
+---
+Wie sah/sieht das aus?
 ---?image=/assets/images/wp-master-screenshot2.png
 ---?image=/assets/images/wp-master-screenshot3.png
 ---?image=/assets/images/wp-master-screenshot-blog.png
 ---?image=/assets/images/wp-master-screenshot-blog1.png
 ---?image=/assets/images/wp-master-screenshot1.png
+---
+Was ist das Problem? |
+---
+- Kunden wählten "schlimme" Themes |
+Was meine ich damit?
+z. Bsp:
+- nicht standardkonform / the WordPress way
+- - Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir aus Sicherheitsgründen immer standardmässig geändert hatten)
+-- überfrachtete Option Panels statt Decisions not Options
+-- ... Das führte zur dritten Phase:
 
+---
+Dritte Phase:
+- Schulungen
+-- zuerst in Zusammenarbeit mit der Migros klubschule in Zürich
+-- dann in eigenen Schulungsräumen und via Webinare
+-- Schulungen halfen Kunden auch zwischen HomePageTool und WordPress zu entscheiden
+-- Spezialisierung auf eigenes HomePageTool und WordPress
 
+Note:
+sehr kurzfristige Anmeldungen machten es schwierig weil wir bei der klubschule voraus definitiv zu/absagen mussten
 
+Als Hoster testeten wir zwar andere CMS, die auf unseren Servern garantiert funktionierten.
+Mehr als Standard-Support boten wir nun explizit nur noch für das eigene HomePageTool und WordPress an
+---
+Vierte Phase (aktuell):
+- explizit 2 Zielgruppen:
+
+![TOOLfree - PRESENCE](/assets/images/toolfree-presence.png)
 
 ---
 Bilder
@@ -118,6 +152,10 @@ Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
 
 
 
+******************
+******************
+******************
+******************
 
 ---
 ## Folie Zwei mit YouTube Video
@@ -179,4 +217,6 @@ else:
 @[6-7](Python working with time)
 @[9-14](Python for..else statement)
 ---
+TODO:
+Ablösung RegApp WP Jahr?
 
