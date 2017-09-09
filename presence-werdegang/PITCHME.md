@@ -53,7 +53,7 @@ Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vo
 __Erste Phase (intern):__
 
 - Eigene Seite von der Registrierungs-Applikation entkoppeln
-- Bis dahin benötigte fast jede Änderung von Content einen Software-Release 
+- Bis dahin benötigte fast jede Änderung von Content einen Software-Release
 - switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
 
 Note:
@@ -66,8 +66,8 @@ ___
 __Zweite Phase (Angebot):__
 
 - kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
-- (bzw. entfernten "Hello Dolly" und "Akismet") |
-- Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!" |
+- (bzw. entfernten "Hello Dolly" und "Akismet")
+- Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!"
 - Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren
 
 Note:
