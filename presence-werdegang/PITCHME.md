@@ -229,7 +229,7 @@ Note:
 - 100% pure WordPress
 ---
 __Was ist da neu?__
-- Physiches Fachgeschäft: Ziel, Funktionalität und Gestaltung einer Website besprechen sich leichter und effizienter im persönlichen Gespräch
+- Physisches Fachgeschäft: Ziel, Funktionalität und Gestaltung einer Website besprechen sich leichter und effizienter im persönlichen Gespräch
 - On Boarding Prozess: Wir verlangen vom Kunden, dass er sich viele Gedanken macht, bevor wir starten&hellip;
 
 Note:
@@ -286,73 +286,26 @@ Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
 
 
 
-******************
-******************
-******************
-******************
+
 
 ---
-## Folie Zwei mit YouTube Video
+FAQ
+Seht ihr euch als Konkurrent zu klassischen Agenturen?
 
-![Info-Video](https://www.youtube.com/embed/tb7VplYMDoM)
----
-### Folie mit Speaker notes
+Nein, ein Projekt-Budget von 10'000.- innerhalb 4 Jahren ist für klassiche Agenturen oft nicht interessant.
+Wenn ein Kunde eine Agentur braucht (und will) kann und soll er sie immer noch nutzen. Wir übernehmen dann Maintenance und Wartung, da wir ein Call-Center sowieso betreiben und solche Anfragen "ressourcenschonend" bearbeiten können.
 
-<code>S</code>
-oder <code>?n=true</code>
+Was, wenn ich also Kunde kündigen will?
+Kein Problem (ausser, dass wir traurig sind).
+Es gibt kein Vendor-Lockin. Es ist 100% echtes WordPress.
+Ein Export- und Import ist mit nativen WordPress-Mitteln problemlos möglich.
 
-Note:
-Dies sind Notizen.
-- eins
-- zwei
-- drei
+Einzig gewisse Services und Plugins müssen dann separat hinzugekauft oder durch ähnliche Dienste ersetzt werden. (z. Bsp. Ad-und Kampagnen-Manager, Google Analytics-Integration, SEO-Tool, Calenso-Buchungstool und es werden sicher weitere dazu kommen.
 
----
-Next: Code from file
+Dies alles ist aber im Markt kaufbar.
+Für den Kunden erstellte CPTs und das Theme kann er selbstverständlich mitnehmen.
 
----?code=/assets/code/functions.php
+Es wird dann einfach für ihn nicht weiter entwickelt und wir glauben, dass es sich nicht lohnt.
 
----
-Inline Code
-
-```
-		add_theme_support( 'html5', [
-			'search-form',
-			'comment-form',
-			'comment-list',
-			'gallery',
-			'caption',
-		] );
-```
-
----
-Inline Code with fragments
-
-
-```python
-from time import localtime
-
-activities = {8: 'Sleeping', 9: 'Commuting', 17: 'Working',
-              18: 'Commuting', 20: 'Eating', 22: 'Resting' }
-
-time_now = localtime()
-hour = time_now.tm_hour
-
-for activity_time in sorted(activities.keys()):
-    if hour < activity_time:
-        print activities[activity_time]
-        break
-else:
-    print 'Unknown, AFK or sleeping!'
-```
-
-@[1](Python from..import statement)
-@[3-4](Python dictionary initialization block)
-@[6-7](Python working with time)
-@[9-14](Python for..else statement)
----
-![das bin ich](/assets/images/kundendienst.jpg)
----
-TODO:
-Ablösung RegApp WP Jahr?
+Wenn der Kunde dieses Gefühlt hat, haben wir einen schlchten Job gemacht. 
 
