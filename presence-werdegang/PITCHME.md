@@ -5,8 +5,8 @@ Werdegang eines WordPress basierten Produktangebots!
 ---?image=/assets/images/online-offline.png
 
 Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus ein neues Produkt an
-
-
+&nbsp;
+&nbsp;
 ---
 - Wie kam es dazu (warum)?
 - Erfahrungen und Schwierigkeiten
@@ -14,10 +14,10 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus e
 - Lessons learned
 ---
 _Wer bin ich?_
-- ein Mensch mit vielen Ideen
-- begeistert von den Möglichkeiten des Internet seit 1995
-- WordPress kennengelernt ca. 2007 (Konto bei .com)
-- Account bei .org seit 2008
+- Voller Ideen
+- Die Möglichkeiten des Internet begeistern mich seit 1995
+- WordPress kenne ich seit ca. 2007 (Kontoerstellung bei .com)
+- Account bei wordpress.org seit 2008
 - chruezundquer.ch gibt es seit 2003, seit 2010 WordPress
 
 
@@ -32,49 +32,60 @@ bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Re
 _So fleissig habe ich seither nie mehr gebloggt ;-)_
 
 Note:
-chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ihn immer erklären muss...
+chruezundquer.ch: doofer Name, den ich cool fand bis ich herausfand, dass ich ihn immer erklären muss&hellip;
+&hellip;
 +++
-Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind...
+Bis dort (2011) 15 nie veröffentlichte Beiträge, die immer noch als Entwurf vorhanden sind&hellip;
+&hellip;
 ---
 #### WordPress bei switchplus
 __Erste Phase (intern):__
 - Eigene Seite von der Registrierungs-Applikation entkoppeln |
-- Bis dahin benötigte fast jede Änderung von Content einen Release[sic]! |
-- switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen |
+- Bis dahin benötigte fast jede Änderung von Content einen Software-Release[sic]! |
+- switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
+
+Note:
+muss ca. 2012 gewesen sein
 ___
 #### WordPress bei switchplus
 __Zweite Phase (Angebot):__
 - kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
 - (bzw. entfernten "Hello Dolly" und "Akismet") |
 - Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!" |
-- Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren |
+- Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren
 
 Note:
-Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Aber wir boten keine "One Click Installation".
+Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Aber wir bieten keine "One Click Installation".
 
 ---
 __Wie sah/sieht das aus?__
 ---?image=/assets/images/wp-master-screenshot2.png
----?image=/assets/images/wp-master-screenshot3.png
 ---?image=/assets/images/wp-master-screenshot-blog.png
 ---?image=/assets/images/wp-master-screenshot-blog1.png
 ---?image=/assets/images/wp-master-screenshot1.png
+---?image=/assets/images/wp-master-screenshot3.png
 ---
 ### Was ist das Problem?
 ---
-- Kunden wählten _schlimme_ Themes |
+- Kunden wählten "schlimme" Themes |
 Was meine ich damit?
 z. Bsp:
 - nicht standardkonform / the WordPress way
-- - Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir aus Sicherheitsgründen immer standardmässig geändert hatten)
--- überfrachtete Option Panels statt Decisions not Options
--- ... Das führte zur dritten Phase:
-
+	- Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir aus Sicherheitsgründen immer geändert hatten)
+	- überfrachtete Option Panels (WordPress Philosophie wäre "Decisions not Options"
+	- &hellip;
+&hellip; das führte zur dritten Phase:
 ---
 #### WordPress bei switchplus
 __Dritte Phase (Schulungen):__
 - zuerst in Zusammenarbeit mit der Migros klubschule in Zürich
 - dann in eigenen Schulungsräumen und via Webinare
++++?image=/assets/images/ScreenShot_Webinar_2015-12-22 at 13.09.44.png
+---
+#### WordPress bei switchplus
+__Dritte Phase (Schulungen):__
+- &hellip;
+&hellip;
 - Schulungen halfen Kunden auch zwischen HomePageTool und WordPress zu entscheiden
 - Spezialisierung auf eigenes HomePageTool und WordPress
 
@@ -90,9 +101,65 @@ __Vierte Phase (Website as a Service):__
 
 ![TOOLfree - PRESENCE](/assets/images/toolfree-presence.png)
 
+Note:
+Zielgruppen
+- Hobby / Profi
+- schnell & einfach / profitorientiert (ZKB slogan: Bei uns muss Ihre Webseite arbeiten)
 ---
-Bilder
+#### Wir definieren:
+![PRESENCE Vorstellung](/assets/images/presence-vorstellung.png)
+---
+__Sammeln und sortieren Anforderungen__
+---
++++?image=/assets/images/IMG_20160614_134734.jpg
+Anforderungen werden gesammelt&hellip;
+&hellip;+++?image=/assets/images/IMG_20160614_134746.jpg
+&hellip; gruppiert &hellip;
++++?image=/assets/images/IMG_20160614_134947.jpg
+Anforderungen (2016)
++++?image=/assets/images/20160810_170743.jpeg
+Anforderungen (2016)
+---
+__Stellen und beantworten Fragen__
+- WordPress Multisite oder individuelle Sites?
+- Auswahl an Themes oder (eigenes) Theme-Framework?
+- Plugins?
+	- Welche? (Open Source, Lizenzieren, selber schreiben&hellip;)
+- &hellip;
 +++
+__WordPress Multisite oder individuelle Sites?__
+- individuelle Sites auf einem CloudLinux mit abgeschotteten Instanzen
+- Hauptgrund: Skalierbarkeit ist technisch einfacher
+- 
+Note:
+Viele Kunden --> viele Server
+Bei Multisite wird DB zum Flaschenhals, die auf mehrere Server verteilt werden muss
++++
+__Auswahl an Themes oder (eigenes) Theme-Framework?__
+- eigenes Theme / CSS Framework
+- Hauptgrund: Themes von unterschiedlichen Quellen verfolgen oft unterschiedliche Philosophien, z. Bsp.
+	- Dateistruktur
+	- Customizer Optionen
+	- Benennung von Menupositionen / Widget-Areas
+	- Wie Social Menues, Unterseiten- / Post-Grids genutzt werden
+	- etc.
+- Das heisst, selbst eine sorgfältig zusammengestellte Auswahl von qualitativ sehr guten Themes wird aufwändig zu supporten
+- 
++++
+__Modularer Ansatz__
+Wir haben uns deshalb entschieden, ein eigenes Theme-Framework zu entwickeln:
+
++++?image=/assets/images/invisionapp-presence-template.png
+
+Note:
+- Der modulare Ansatz ist die Idee
+- mit ersten Pilotkunden haben wir einzelne Module entwickelt.
+- Der Aufwand ist aber enorm, grösser als vorgesehen.
+- Wir sind noch nicht da, wo wir hinwollen
+- Mittelfristig sollte ein visuelles Tool, a la [components.underscores.me](https://themeshaper.com/2017/06/26/the-future-of-underscores-and-a-new-committer/) (Ulrich Pogson) die Initalisiserung neuer Projekte erleichtern.
+- das war jetzt etwas technisch, zurück 
+
+
 ![Prozess Kundensicht](/assets/images/PRESENCE_Process_de-Kunde.jpg)
 +++?image=/assets/bg/bg.jpg
 
@@ -106,12 +173,19 @@ Bilder
 
 +++
 ![Custom Post Type Kundenmeinung](/assets/images/kundenmeinung.png)
-+++?image=/assets/images/IMG_20160614_134947.jpg
-Post it's 1
-+++?image=/assets/images/IMG_20160614_134746.jpg
-Post it's 2
+
 +++?image=/assets/images/IMG_20160614_134734.jpg
-Post it's 3
+Anforderungen werden gesammelt&hellip;
+&hellip;
++++?image=/assets/images/IMG_20160614_134746.jpg
+&hellip;
+&hellip; gruppiert &hellip;
+&hellip;
++++?image=/assets/images/IMG_20160614_134947.jpg
+Anforderungen (2016)
++++?image=/assets/images/20160810_170743.jpeg
+Anforderungen (2016)
+
 ---
 Next: Onboarding Prozess
 ---
@@ -150,7 +224,8 @@ Note:
 2. Zuerst erklärte er, seine Seite dürfe nicht früher als x online sein (Konkurrenzverbot, war noch angestellt und wollte sich selbständig machen), dann sollte es plötzlich doch früher sein.
 Mails waren in seinem Spam-Ordner. (Mail wollte er extern behalten).  
 Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
-3. Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebelvideo.ch/ueber/) erwähnen...
+3. Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebelvideo.ch/ueber/) erwähnen&hellip;
+&hellip;
 
 
 
