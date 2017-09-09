@@ -14,7 +14,6 @@ Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus e
 - Lessons learned
 ---
 Wer bin ich?
-![das bin ich](/assets/images/kundendienst.jpg)
 - ein Mensch mit vielen Ideen
 - begeistert von den Möglichkeiten des Internet seit 1995
 - WordPress kennengelernt ca. 2007 (Konto bei .com)
@@ -216,6 +215,8 @@ else:
 @[3-4](Python dictionary initialization block)
 @[6-7](Python working with time)
 @[9-14](Python for..else statement)
+---
+![das bin ich](/assets/images/kundendienst.jpg)
 ---
 TODO:
 Ablösung RegApp WP Jahr?
