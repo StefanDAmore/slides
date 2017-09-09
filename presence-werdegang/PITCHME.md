@@ -282,10 +282,10 @@ Auswertung / Optimierung / Betreuung
 
 __PRESENCE und Partner__
 
-switchplus kann so ein Projekt nicht alleine stemmen
+- switchplus kann so ein Projekt nicht alleine stemmen
 Wir sind auf Partner angewiesen
 
-Der Prozess, vereinfacht dargestellt, sieht bei jedem PRESENCE Projekt so aus:
+- Der Prozess, vereinfacht dargestellt, sieht bei jedem PRESENCE Projekt so aus:
 
 ---?image=/assets/images/PRESENCE_Process_de-Kunde.jpg
 
@@ -326,7 +326,6 @@ Ziel, Funktionalität und Gestaltung einer Website besprechen sich leichter und 
 Note:
 
 ---
-
 _pick your purpose & announce it_, wie John Mueller heute morgen gesagt hat, ist genau, was wir mit dem Onboarding Prozess erreichen möchten.
 
 Mit PRESENCE bekommen Kunden in einem Abonnement fortlaufend die Beratung und kompetente Begleitung für ihre Internet Präsenz. Wir fordern von ihnen aber, dass  sie sich umfassend Gedanken machen.
