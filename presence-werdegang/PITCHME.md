@@ -56,8 +56,11 @@ __Erste Phase (intern):__
 - Bis dahin benötigte fast jede Änderung von Content einen Software-Release[sic]!
 - switchie.ch (Wissensdatenbank) von einem CH-CMS auf WordPress umstellen
 
-___
+Note:
+muss ca. 2012 gewesen sein
+Von Contrexx zu WordPress
 
+___
 #### WordPress bei switchplus
 
 __Zweite Phase (Angebot):__
