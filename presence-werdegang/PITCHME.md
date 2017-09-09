@@ -6,6 +6,7 @@ Werdegang eines WordPress basierten Produktangebots!
 
 Note:
 Unter dem Motto *am einfachsten geht online offline* bieten wir bei switchplus  in einem physischen Fachgeschäft in Zürich (und natürlich online) ein neues Produkt an.
+
 ---
 - Wie kam es dazu (warum)?
 - Was ist es?
@@ -60,7 +61,8 @@ Note:
 muss ca. 2012 gewesen sein
 Von Contrexx zu WordPress
 
-___
+---
+
 #### WordPress bei switchplus
 
 __Zweite Phase (Angebot):__
