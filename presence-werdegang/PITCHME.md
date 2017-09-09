@@ -565,6 +565,12 @@ __Fragen?__
 [https://gitpitch.com/zu/slides?p=presence-werdegang](https://gitpitch.com/zu/slides?p=presence-werdegang)
 
 ---
+Gewinnspiel: auf [switchplus.ch/wettbewerb](https://www.switchplus.ch/wettbewerb/)
+
+Note:
+Schreiben Sie uns, warum Sie dringend eine neue Webseite brauchen. Unter den originellsten Einsendungen suchen wir fünf Gewinner/-innen aus, für die wir kostenlos eine neuen Internet-Auftritt mit PRESENCE erstellen werden. Nach einem Jahr können Sie dann entscheiden, ob Sie weiterhin Ihre Website mit PRESENCE von switchplus beziehen möchten.
+
+---
 [PRESENCE Video](https://www.youtube.com/watch?v=eFCZxlyUGfM)
 
 [SignSpinner zur Eröffnung des Fachgeschäfts an der Sihlporte](https://www.youtube.com/watch?v=iRgyySJLABE)
