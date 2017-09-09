@@ -502,6 +502,13 @@ Presence Logo
 +++
 ![PRESENCE](/assets/images/kampagne-5.png)
 
++++
+![PRESENCE](/assets/images/sitewit-analytics.png)
+
++++
+![PRESENCE](/assets/images/sitewit-kampagnen-auswertung.png)
+
+
 ---
 #### Erlebnisse mit Betatestern:
 
