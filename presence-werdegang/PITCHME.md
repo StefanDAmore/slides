@@ -234,10 +234,57 @@ __Was ist da neu?__
 
 Note:
 
+---
+_pick your purpose & announce it_ ist was wir mit dem Onboarding Prozess erreichen möchten.
 
-
+Mit PRESENCE bekommen Kunden in einem Abonnement fortlaufend die Beratung und kompetente Begleitung für ihre Internet Präsenz. Wir fordern von ihnen aber, dass  sie sich umfassend Gedanken machen.
 
 ---
+Schritt für Schritt werden Kunden durch diverse Formulare geführt:
++++
+	1.Ihre Webseite braucht eine Aufgabe
+	_Machen Sie sich Gedanken darüber, was Sie mit Ihrer Webseite erreichen wollen._
++++
+	2.Die Zielgruppe für Ihre Internet Präsenz
+_Mit Hilfe einer ausgedachten Person (Persona), definieren Sie repräsentativ Ihre Zielgruppe_
++++
+	3.Stellen Sie sich vor
+_Knapp und präzise präsentieren Sie sich und Ihre Vorteile für potentiellen Kunden._
++++
+4. Das Profil und die Aufgaben Ihrer Webseite
+_Sie formulieren Sie den Hauptzweck Ihrer Internet Präsenz._
++++
+	5.Funktionelle Anforderung an die Webseite
+_Hier definieren Sie, welche Funktionen und Möglichkeiten Ihrer Internet Präsenz beinhalten soll_
++++
+	6.Interaktion und Soziale Medien
+_Auf welchen Plattformen möchten Sie mit Ihren Kunden in Kontakt treten?_
++++
+	7.Inhalte und Gestaltung
+_Wie sollen die Inhalte auf der Webseite strukturiert werden und in welchem Design möchten Sie auftreten?_
++++
+	8.Launchpage und Lead-Magnet
+_Beginnen Sie mit dem Bekanntmachen Ihrer neuen Internet Präsenz._
++++
+	9.Marketing und Bekanntmachung
+_Wie finden Kunden und Interessenten Ihre Webseite?_
+
+---
+Erst wenn der Kunde, diese Onboarding Fragen abgeliefert hat, gibt es ein __Treffen und Expertengespräch__
+_In einem persönlichen Gespräch analysieren wir zusammen mit dem Kunden die in den Formularen erfassten Antworten und wir stellen sicher, dass die beste Lösung definiert wird._
+---
+
+Note:
+Der Kunde erhält ein Planungsdokument, welches er unterzeichnen muss.
+
+__Definition__
+Im Ergebnis halten wir gemeinsam in einem Dokument fest, was wir initial in welcher Form auf Ihrer Webseite umsetzen, so dass Ihren Anforderungen und Wünschen entsprochen wird. Anschliessend liefern Sie uns bestehende Designelemente (Logos, Bilder, etc.) und Inhalte (Texte, Dokumente, Filme, etc.) für Ihre Webseite. Designer und Web-Entwickler machen sich an die Arbeit.
+
++++
+__Designvorschlag__
+allenfalls
+__Landing Page__
++++
 PRESENCE ist ein Paket, bestehend aus Beratung, Umsetzung und Betreuung der Website sowie Unterstützung beim Online-Marketing. Das Komplettpaket wird als Abonnement für 2500 Franken pro Jahr angeboten und enthält die laufende Beratung und Weiterentwicklung der Internet-Präsenz gemeinsam mit dem Kunden.
 Kunden können im neuen Fachgeschäft die Ziele, Funktionalität und Gestaltung von Webseiten im persönlichen Gespräch ausarbeiten
 ---
@@ -289,18 +336,19 @@ Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
 
 
 ---
+Note:
 FAQ
-Seht ihr euch als Konkurrent zu klassischen Agenturen?
+__Seht ihr euch als Konkurrent zu klassischen Agenturen?__
 
 Nein, ein Projekt-Budget von 10'000.- innerhalb 4 Jahren ist für klassiche Agenturen oft nicht interessant.
 Wenn ein Kunde eine Agentur braucht (und will) kann und soll er sie immer noch nutzen. Wir übernehmen dann Maintenance und Wartung, da wir ein Call-Center sowieso betreiben und solche Anfragen "ressourcenschonend" bearbeiten können.
 
-Was, wenn ich also Kunde kündigen will?
+__Was, wenn ich also Kunde kündigen will?__
 Kein Problem (ausser, dass wir traurig sind).
 Es gibt kein Vendor-Lockin. Es ist 100% echtes WordPress.
 Ein Export- und Import ist mit nativen WordPress-Mitteln problemlos möglich.
 
-Einzig gewisse Services und Plugins müssen dann separat hinzugekauft oder durch ähnliche Dienste ersetzt werden. (z. Bsp. Ad-und Kampagnen-Manager, Google Analytics-Integration, SEO-Tool, Calenso-Buchungstool und es werden sicher weitere dazu kommen.
+Einzig gewisse Services und Plugins müssen dann separat hinzugekauft oder durch ähnliche Dienste ersetzt werden. (z. Bsp. Ad-und Kampagnen-Manager, Google Analytics-Integration, SEO-Tool, Calenso-Buchungstool und es werden sicher weitere dazu kommen.)
 
 Dies alles ist aber im Markt kaufbar.
 Für den Kunden erstellte CPTs und das Theme kann er selbstverständlich mitnehmen.
