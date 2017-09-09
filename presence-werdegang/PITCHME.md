@@ -112,7 +112,8 @@ __Kunden wählten "schlimme" Themes__
 
 Was meine ich damit?
 - nicht standardkonform / the WordPress way
-	- Bsp: Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir alles aus Sicherheitsgründen immer geändert hatten)
+---
+- Bsp: Es gab einen Theme-Anbieter, bei dem die Demodaten nur funktionierten, wenn der Admin die *user-id=1* besass und *admin* hiess und die WordPress DB das Standardpräxix "*wp_*" nutzte (was wir alles aus Sicherheitsgründen immer geändert hatten)
 	- überfrachtete Option Panels (WordPress Philosophie wäre "Decisions not Options"
 	- Unser liebevoll gestalteter Inhalt wurde gar nicht beachtet, wenn wir Demodaten installierten
 	- &hellip;
