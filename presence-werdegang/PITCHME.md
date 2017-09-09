@@ -377,6 +377,10 @@ Keine Reaktion auf unsere Hilfe, bis zum nächsten "juristischen" Mail.
 3. Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebelvideo.ch/ueber/) erwähnen&hellip;
 &hellip;
 
+---
+__Fragen?__
+
+[https://gitpitch.com/zu/slides?p=presence-werdegang](https://gitpitch.com/zu/slides?p=presence-werdegang)
 
 ---
 ---
