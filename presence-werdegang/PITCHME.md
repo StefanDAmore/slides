@@ -23,11 +23,12 @@ Wer bin ich?
 
 Note:
 bereits ab 1995: Bulletin Boards (Modem) und noch vorher "Programm" auf Casio Rechner für Misch-Kreuz
----
++++
 - 26.05.2003: chruezundquer.ch
 - 05.05.2010: Umstellung auf WordPress (davor pures HTML, Dreamweaver bzw. HomeSite)
 - 24.01.2011 erster veröffentlichter Beitrag (Relaunch von psd-tutorials.de, 91 Worte, Hinweis auf Gewinnspiel)
 - 28.03 2011 zweiter Artikel (2 Monate später, Grosse Dateien versenden, 106 Worte)
+
 So fleissig habe ich seither nie mehr gebloggt ;-)
 
 Note:
