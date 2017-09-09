@@ -67,38 +67,40 @@ Von Contrexx zu WordPress
 
 __Zweite Phase (Angebot):__
 
-- kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins
+- kostenpflichtige WordPress-Installation mit wenigen, aber sinnvollen vorinstallierten Plugins und frei wählbarem Theme
+
+Note:
+
 - (bzw. entfernten "Hello Dolly" und "Akismet")
 - Enthält eine Art Muster-Webseite mit integrierter Doku und Blog zu neuesten Änderungen in WordPress statt nur "Hallo Welt!"
 - Kunde darf beliebiges (auch kostenpflichtiges) Theme wählen, welches wir ihm (auf Wunsch inkl. Musterdaten) installieren
 
-Note:
-Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Aber wir bieten keine "One Click Installation".
+- Kunden konnten schon vorher auf ihrem Hosting WordPress selber installieren. Aber wir bieten keine "One Click Installation".
 
 ---
 __Wie sah/sieht das aus?__
 
----?image=/assets/images/wp-master-screenshot2.png
++++?image=/assets/images/wp-master-screenshot2.png
 
 Note:
 eine gewöhnliche WordPress Webseite&hellip;
 
----?image=/assets/images/wp-master-screenshot-blog.png
++++?image=/assets/images/wp-master-screenshot-blog.png
 
 Note:
 &hellip; mit etwas erklärendem Dummy Text&hellip;
 
----?image=/assets/images/wp-master-screenshot-blog1.png
++++?image=/assets/images/wp-master-screenshot-blog1.png
 
 Note:
 &hellip;einem Blog zu den WordPress Updates&hellip;
 
----?image=/assets/images/wp-master-screenshot1.png
++++?image=/assets/images/wp-master-screenshot1.png
 
 Note:
 &hellip; Links zu Schulungsunterlagen &hellip;
 
----?image=/assets/images/wp-master-screenshot3.png
++++?image=/assets/images/wp-master-screenshot3.png
 
 Note:
 &hellip; und Beispiele einer Gallerie mit Lightbox-Effekt und einem Formular&hellip;
@@ -171,9 +173,9 @@ __Sammeln und sortieren Anforderungen__
 +++?image=/assets/images/IMG_20160614_134734.jpg
 Anforderungen werden gesammelt&hellip;
 +++?image=/assets/images/IMG_20160614_134746.jpg
-&hellip; zusammengefasst &hellip;
-+++?image=/assets/images/IMG_20160614_134947.jpg
 &hellip; sortiert &hellip;
++++?image=/assets/images/IMG_20160614_134947.jpg
+&hellip; zusammengefasst &hellip;
 +++?image=/assets/images/20160810_170743.jpeg
 &hellip; gruppiert &hellip;
 ---
@@ -188,7 +190,7 @@ __Entscheidungen__
 Note: Dabei mussten wir einige Fragen für uns klären&hellip;
 Besteht Interesse an den Antworten? Diese sind etwas technischer Natur und ich kann sie auch gerne individuell oder im Anschluss diskutieren - oder jetzt (kurz!)
 
-Wer möchte wissen, wiewir uns entschieden haben?
+Wer möchte wissen, wie wir uns entschieden haben?
 
 +++
 __WordPress Multisite oder individuelle Sites?__
@@ -208,20 +210,25 @@ __Auswahl an Themes oder (eigenes) Theme(-Framework?)__
 Hauptgrund:
 
 Themes von unterschiedlichen Quellen verfolgen oft unterschiedliche Philosophien, z. Bsp. bezüglich
-	- Dateistruktur, Customizer Optionen
-	- Benennung von Menupositionen / Widget-Areas
-	- Wie Social Menues, Unterseiten- / Post-Grids genutzt werden
-	- Auch eine sorgfältig zusammengestellte Auswahl von qualitativ sehr guten Themes wird aufwändig zu supporten sein
+
+- Dateistruktur, Customizer Optionen
+- Benennung von Menupositionen / Widget-Areas
+- Wie Social Menues, Unterseiten- / Post-Grids genutzt werden
+- Auch eine sorgfältig zusammengestellte Auswahl von qualitativ sehr guten Themes wird aufwändig zu supporten sein
 
 +++
 __Plugins__
+
 Mischung zwischen
+
 - lizenzierten Plugins
 - Plugins aus dem Standard WordPress Repository
 - eigenen Plugins  
 (die teilweise Elemente der Standard-Plugins anpassen, z. B. Werbung ausblenden ;-)
+
 +++
 __Welche Rechte geben wir den Benutzern?__
+
 - Individuelle Berechtigung  
 (eigene User Rolle: PRESENCE-Admin)
 - User kann keine eigenen Plugins oder Themes installieren oder Updaten aber beispielsweise Einstellungen gewisser Plugins vornehmen, die standardmässig höhere Rechte als Editor verlangen.
@@ -318,6 +325,7 @@ Ziel, Funktionalität und Gestaltung einer Website besprechen sich leichter und 
 Note:
 
 ---
+
 _pick your purpose & announce it_, wie John Mueller heute morgen gesagt hat, ist genau, was wir mit dem Onboarding Prozess erreichen möchten.
 
 Mit PRESENCE bekommen Kunden in einem Abonnement fortlaufend die Beratung und kompetente Begleitung für ihre Internet Präsenz. Wir fordern von ihnen aber, dass  sie sich umfassend Gedanken machen.
@@ -516,6 +524,8 @@ Und er wollte uns unbedingt als "Sponsor" auf seiner [Rebel Video](https://rebel
 
 Note:
 Kunden wollen sich keine Blösse geben und nicken, auch wenn sie nicht verstanden haben, was man gesagt hat.
+
+---
 
 __Fragen?__
 
